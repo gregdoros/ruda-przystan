@@ -108,3 +108,7 @@
 .my-gallery figcaption {
   display: none;
 }
+
+th, td{
+  text-align: center;
+}
